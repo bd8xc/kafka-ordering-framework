@@ -1,0 +1,13 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Data
+*.csv:Zone.Identifier
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
